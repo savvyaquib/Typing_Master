@@ -25,6 +25,6 @@ Typing Master is a desktop application designed to help users improve their typi
 - Install required libraries:
 ```bash
 pip install pillow
-
+```
 
 Created with ❤️ by Mohammad Aquib
